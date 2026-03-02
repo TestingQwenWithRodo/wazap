@@ -1,0 +1,52 @@
+```
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+*.user
+*.userosscache
+*.suo
+*.csproj.user
+*.vbproj.user
+*.vcxproj.user
+*.userprefs
+
+# Visual Studio Code files
+.vscode/
+
+# ASP.NET Core
+**/bin/Debug/**
+**/bin/Release/**
+**/obj/**
+
+# Dependencies
+node_modules/
+packages/
+
+# Environment specific settings
+.env
+.env.local
+*.env.*
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# User-specific files
+.vs/
+```
